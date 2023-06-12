@@ -8,7 +8,9 @@
 
 ## Instructions
 
-Find the Kaggle competition with your cohort name, i.e. **diamonds-databcn0223**, [https://www.kaggle.com/competitions/diamonds-databar0223-rev/data]
+Find the Kaggle competition with your cohort name, i.e. **diamonds-databcn0223**
+
+https://www.kaggle.com/t/7adfaa9038a64fe4bea3e7edd4849185
 
 ### train.csv
 * 1. **Processing/cleaning** the dataset: this should be later modularized in functions.
